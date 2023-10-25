@@ -1,0 +1,17 @@
+.house-container{
+    margin-left: 35px;
+    margin-top: 50px;
+}
+
+.house-img-container{
+    border:  1px solid rgba(255, 255, 255, 0.274);
+    border-width: thin;
+    border-radius: 4px;
+    height: 210px;
+
+}
+
+.house-img{
+    height:200px;
+    width: 200px;
+}
